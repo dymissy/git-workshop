@@ -1,5 +1,7 @@
 # Workshop GIT
 
+## Sai che organizziamo corsi su git in azienda? Per maggiori informazioni https://www.ideato.it/formazione/piu-produttivo-con-git
+
 ![WingsItaly](https://image.ibb.co/hHRHPn/wingsitaly.jpg)
 
 Lavoriamo per WingsItaly, la famosa compagnia aerea di bandiera e questo repository
@@ -65,3 +67,5 @@ Portare il feature branch `embraer190-improvements` sul branch principale risolv
 eventuali conflitti. Prima di spostare il lavoro sul branch principale modificare la history
 del branch `embraer190-improvements` affinché le commit che aggiornano la velocità di crociera 
 vengano accorpate in un'unica commit.
+
+## Sai che organizziamo corsi su git in azienda? Per maggiori informazioni https://www.ideato.it/formazione/piu-produttivo-con-git
